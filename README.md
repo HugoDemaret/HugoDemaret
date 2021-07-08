@@ -1,14 +1,15 @@
 <h1> Hi there 👋 </h1>
 
 ```python
-from HugoDemaret import information
+from HugoDemaret import information as info
 
 WorkAs = ["System administrator", "Back-end developer"]
 Studying = ["Computer science", "Mathematics"]
 CodeIn = ["C","python","bash"]
 OtherInterest = ["Cooking","Tea","Traveling","Music"]
-Secret = "I love tea !"
+print(info.secret())
 ```
+> Secret : I use arch btw
 
 <h2>Technologies I use :</h2>
 <p>🐳 Docker</p>
@@ -18,6 +19,3 @@ Secret = "I love tea !"
 <p>☸ Kubernetes</p>
 <p>✨ JavaScript (and NodeJS</p>
 <p>☕ Java</p>
-
-
-> I use arch btw
