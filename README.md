@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**HugoDemaret/HugoDemaret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+from HugoDemaret import information
 
-Here are some ideas to get you started:
+WorkAs = ["System administrator", "Back-end developer"]
+Studying = ["Computer science", "Mathematics"]
+CodeIn = ["C","C++","python","bash"]
+OtherInterest = ["Cooking","Tea","Traveling","Music"]
+Secret = "I love tea !"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```
