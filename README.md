@@ -9,5 +9,6 @@ CodeIn = ["C","python","bash"]
 OtherInterest = ["Cooking","Tea","Traveling","Music"]
 Secret = "I love tea !"
 ```
-<h2>Things I use :</h2>
+
+<h2>Technologies I use :</h2>
 <p>🐳 Docker</p>
