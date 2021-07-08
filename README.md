@@ -18,3 +18,6 @@ Secret = "I love tea !"
 <p>☸ Kubernetes</p>
 <p>✨ JavaScript (and NodeJS</p>
 <p>☕ Java</p>
+
+
+> I use arch btw
