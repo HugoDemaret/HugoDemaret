@@ -16,3 +16,5 @@ Secret = "I love tea !"
 <h2>Things I am learning :</h2>
 <p>🦀 Rust</p>
 <p>☸ Kubernetes</p>
+<p>✨ JavaScript (and NodeJS</p>
+<p>☕ Java</p>
