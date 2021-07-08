@@ -8,8 +8,8 @@ Studying = ["Computer science", "Mathematics"]
 CodingIn = ["C","python","bash"]
 OtherInterests = ["Cooking","Tea","Traveling","Music"]
 print(info.secret())
-```
 > Secret : I use arch btw
+```
 
 <h2>Technologies I use :</h2>
 <p>🐳 Docker</p>
