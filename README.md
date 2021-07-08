@@ -12,3 +12,7 @@ Secret = "I love tea !"
 
 <h2>Technologies I use :</h2>
 <p>🐳 Docker</p>
+
+<h2>Things I am learning :</h2>
+<p>🦀 Rust</p>
+<p>☸ Kubernetes</p>
