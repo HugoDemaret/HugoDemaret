@@ -3,9 +3,9 @@
 ```python
 from HugoDemaret import information as info
 
-WorkAs = ["System administrator", "Back-end developer"]
+WorkingAs = ["System administrator", "Back-end developer"]
 Studying = ["Computer science", "Mathematics"]
-CodeIn = ["C","python","bash"]
+CodingIn = ["C","python","bash"]
 OtherInterest = ["Cooking","Tea","Traveling","Music"]
 print(info.secret())
 ```
