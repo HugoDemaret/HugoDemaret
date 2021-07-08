@@ -6,7 +6,7 @@ from HugoDemaret import information as info
 WorkingAs = ["System administrator", "Back-end developer"]
 Studying = ["Computer science", "Mathematics"]
 CodingIn = ["C","python","bash"]
-OtherInterest = ["Cooking","Tea","Traveling","Music"]
+OtherInterests = ["Cooking","Tea","Traveling","Music"]
 print(info.secret())
 ```
 > Secret : I use arch btw
