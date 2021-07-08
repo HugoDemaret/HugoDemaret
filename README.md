@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
 ```python
 from HugoDemaret import information
