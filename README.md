@@ -13,7 +13,8 @@ print(info.secret())
 > Secret : I use arch btw
 
 <h2>Technologies I use :</h2>
-<p style="text-align:centre">🐍 Python  🐳 Docker   🖥️ C language    🖥️ Bash    🐧 Linux</p>
+<p>🐍 Python  🐳 Docker   🖥️ C language    🖥️ Bash    🐧 Linux</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
 
 
