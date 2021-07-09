@@ -14,11 +14,6 @@ print(info.secret())
 
 <h2>Technologies I use :</h2>
 
-|           | Technology |                      |
-| ------------- | ------------- |--------------|
-| 🐍 Python  | 🖥️ C Language |      🖥️ Bash    |
-| 🐳 Docker  | 🐧 Linux  |  🪶 Apache   |
-
 <table>
     <thead>
       <tr>
@@ -35,6 +30,10 @@ print(info.secret())
     </tr>
     <tr>
         <td>🖥 Bash</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>🪶 Apache</td>
         <td></td>
     </tr>
 </table>
