@@ -17,7 +17,7 @@ print(info.secret())
 |           | Technology |                      |
 | ------------- | ------------- |--------------|
 | 🐍 Python  | 🖥️ C Language |      🖥️ Bash    |
-| 🐳 Docker  | 🐧 Linux  |     🪶 Apache2      |
+| 🐳 Docker  | 🐧 Linux  |  🪶 Apache   |
 
 
 
