@@ -13,7 +13,7 @@ print(info.secret())
 > Secret : I use arch btw
 
 <h2>Technologies I use :</h2>
-<p>🐍 Python</p>
+<p>🐍 Python  🐳 Docker   🖥️ C language</p>
 <p>🖥️ C language</p>
 <p>🖥️ Bash</p>
 <p>🐧 Linux</p>
