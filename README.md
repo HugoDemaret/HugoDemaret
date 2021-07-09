@@ -30,11 +30,7 @@ print(info.secret())
     </tr>
     <tr>
         <td>🖥 Bash</td>
-        <td></td>
-    </tr>
-    <tr>
         <td>🪶 Apache</td>
-        <td></td>
     </tr>
 </table>
 
