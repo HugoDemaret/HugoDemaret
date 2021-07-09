@@ -25,9 +25,9 @@ print(info.secret())
 
 | Technology  | Level |
 | ------------- | ------------- |
-| 🦀 Rust  | https://progress-bar.dev/33/  |
-| ☸ Kubernetes | https://progress-bar.dev/20/ |
-| ✨ JavaScript |https://progress-bar.dev/33/ |
-| ✨ NodeJS| https://progress-bar.dev/33/|
-| ☕ Java |https://progress-bar.dev/10/ |
+| 🦀 Rust  | ![Progress](https://progress-bar.dev/33/) |
+| ☸ Kubernetes | ![Progress](https://progress-bar.dev/25/) |
+| ✨ JavaScript |![Progress](https://progress-bar.dev/25/) |
+| ✨ NodeJS| ![Progress](https://progress-bar.dev/50/)|
+| ☕ Java |![Progress](https://progress-bar.dev/25/)|
 
