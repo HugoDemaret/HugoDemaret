@@ -20,9 +20,11 @@ print(info.secret())
 | 🐳 Docker  | 🐧 Linux  |  🪶 Apache   |
 
 <table>
-    <tr  style="align: center;">
-        <td colspan="2" >Technology</td>
-    </tr>
+    <thead>
+      <tr  style="text-align: center;">
+          <td colspan="2" >Technology</td>
+      </tr>
+    </thead>
     <tr>
         <td>🐍 Python</td>
         <td>🐳 Docker</td>
