@@ -14,7 +14,11 @@ print(info.secret())
 
 <h2>Technologies I use :</h2>
 <p>🐍 Python  🐳 Docker   🖥️ C language    🖥️ Bash    🐧 Linux</p>
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 
 
