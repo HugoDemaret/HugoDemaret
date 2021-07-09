@@ -15,13 +15,13 @@ print(info.secret())
 <h2>Technologies I use :</h2>
 <p>🐍 Python  🐳 Docker   🖥️ C language    🖥️ Bash    🐧 Linux</p>
 
-| Technology  | Level |
-| ------------- | ------------- |
-| 🐍 Python  |   |      |
-| 🐳 Docker|   |        |
-|           |       |
-|         |       |
-|     |     |
+| Technology  |
+| ------------- | 
+| 🐍 Python  |      
+| 🐳 Docker|          
+|           |       
+|         |       
+|     |     
 
 
 
