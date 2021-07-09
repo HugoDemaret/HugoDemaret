@@ -21,7 +21,7 @@ print(info.secret())
 
 <table>
     <thead>
-      <tr  style="text-align: center;">
+      <tr>
           <td colspan="2" >Technology</td>
       </tr>
     </thead>
