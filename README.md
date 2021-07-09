@@ -21,7 +21,7 @@ print(info.secret())
 
 
 
-<h2>Technologies I want to learn :</h2>
+<h2>Technologies that I am learning :</h2>
 
 | Technology  | Level |
 | ------------- | ------------- |
