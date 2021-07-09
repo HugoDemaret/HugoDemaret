@@ -15,6 +15,10 @@ print(info.secret())
 <h2>Technologies I use :</h2>
 <p>🐍 Python  🐳 Docker   🖥️ C language</p>
 <p>🖥️ C language</p>
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 <p>🖥️ Bash</p>
 <p>🐧 Linux</p>
 <p>🐳 Docker</p>
