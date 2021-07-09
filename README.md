@@ -22,7 +22,7 @@ print(info.secret())
 <table>
     <thead>
       <tr>
-          <td colspan="2" align="center>Technology</td>
+          <td colspan="2" align="center">Technology</td>
       </tr>
     </thead>
     <tr>
