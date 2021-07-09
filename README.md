@@ -13,15 +13,10 @@ print(info.secret())
 > Secret : I use arch btw
 
 <h2>Technologies I use :</h2>
-<p>🐍 Python  🐳 Docker   🖥️ C language</p>
-<p>🖥️ C language</p>
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-<p>🖥️ Bash</p>
-<p>🐧 Linux</p>
-<p>🐳 Docker</p>
+<p style="text-align:center">🐍 Python  🐳 Docker   🖥️ C language    🖥️ Bash    🐧 Linux</p>
+
+
+
 <h2>Things I am learning :</h2>
 <p>🦀 Rust</p>
 <p>☸ Kubernetes</p>
