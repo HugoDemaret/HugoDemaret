@@ -19,7 +19,23 @@ print(info.secret())
 | 🐍 Python  | 🖥️ C Language |      🖥️ Bash    |
 | 🐳 Docker  | 🐧 Linux  |  🪶 Apache   |
 
-
+<table>
+    <tr  style="text-align: center;">
+        <td colspan="2" >Technology</td>
+    </tr>
+    <tr>
+        <td>🐍 Python</td>
+        <td>🐳 Docker</td>
+    </tr>
+    <tr>
+        <td>🖥 C Language</td>
+        <td>🐧 Linux</td>
+    </tr>
+    <tr>
+        <td>🖥 Bash</td>
+        <td></td>
+    </tr>
+</table>
 
 <h2>Technologies that I am learning :</h2>
 
