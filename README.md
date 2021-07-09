@@ -36,11 +36,11 @@ print(info.secret())
 
 <h2>Technologies that I am learning :</h2>
 
-| Technology  | Level |
+| Technology  | Progress |
 | ------------- | ------------- |
 | 🦀 Rust  | ![Progress](https://progress-bar.dev/33/) |
 | ☸ Kubernetes | ![Progress](https://progress-bar.dev/25/) |
 | ✨ JavaScript |![Progress](https://progress-bar.dev/25/) |
 | ✨ NodeJS| ![Progress](https://progress-bar.dev/50/)|
-| ☕ Java |![Progress](https://progress-bar.dev/25/)|
+| ♨️ Java |![Progress](https://progress-bar.dev/25/)|
 
