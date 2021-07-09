@@ -13,20 +13,21 @@ print(info.secret())
 > Secret : I use arch btw
 
 <h2>Technologies I use :</h2>
-<p>🐍 Python  🐳 Docker   🖥️ C language    🖥️ Bash    🐧 Linux</p>
 
-| Technology  |
-| ------------- | 
-| 🐍 Python  |      
-| 🐳 Docker|          
-|           |       
-|         |       
-|     |     
+|           | Technology |                      |
+| ------------- | ------------- |--------------|
+| 🐍 Python  | 🖥️ C Language |      🖥️ Bash    |
+| 🐳 Docker  | 🐧 Linux  |              |
 
 
 
-<h2>Things I am learning :</h2>
-<p>🦀 Rust</p>
-<p>☸ Kubernetes</p>
-<p>✨ JavaScript (and NodeJS)</p>
-<p>☕ Java</p>
+<h2>Technologies I want to learn :</h2>
+
+| Technology  | Level |
+| ------------- | ------------- |
+| 🦀 Rust  | https://progress-bar.dev/33/  |
+| ☸ Kubernetes | https://progress-bar.dev/20/ |
+| ✨ JavaScript |https://progress-bar.dev/33/ |
+| ✨ NodeJS| https://progress-bar.dev/33/|
+| ☕ Java |https://progress-bar.dev/10/ |
+
