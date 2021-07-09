@@ -20,7 +20,7 @@ print(info.secret())
 | 🐳 Docker  | 🐧 Linux  |  🪶 Apache   |
 
 <table>
-    <tr  style="text-align: center;">
+    <tr  style="align: center;">
         <td colspan="2" >Technology</td>
     </tr>
     <tr>
