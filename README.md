@@ -43,4 +43,5 @@ print(info.secret())
 | ✨ JavaScript |![Progress](https://progress-bar.dev/25/) |
 | ✨ NodeJS| ![Progress](https://progress-bar.dev/50/)|
 | ♨️ Java |![Progress](https://progress-bar.dev/25/)|
+| 🐘 PHP |![Progress](https://progress-bar.dev/15/)|
 
