@@ -32,6 +32,10 @@ print(info.secret())
         <td>🖥 Bash</td>
         <td>🪶 Apache</td>
     </tr>
+    <tr>
+        <td>LaTex</td>
+        <td></td>
+    </tr>
 </table>
 
 <h2>Technologies that I am learning :</h2>
