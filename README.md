@@ -3,7 +3,7 @@
 ```python
 from HugoDemaret import information as info
 Name = "Hugo"
-StudyingAt = "Université de Paris, France"
+StudyingAt = "Université Paris Cité, France"
 WorkingAs = ["System administrator", "Back-end developer"]
 Studying = ["Computer science", "Mathematics"]
 CodingIn = ["C","python","bash"]
