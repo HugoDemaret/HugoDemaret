@@ -34,7 +34,7 @@ print(info.secret())
     </tr>
     <tr>
         <td>LaTex</td>
-        <td></td>
+        <td>♨️ Java</td>
     </tr>
 </table>
 
@@ -46,6 +46,5 @@ print(info.secret())
 | ☸ Kubernetes | ![Progress](https://progress-bar.dev/25/) |
 | ✨ JavaScript |![Progress](https://progress-bar.dev/25/) |
 | ✨ NodeJS| ![Progress](https://progress-bar.dev/50/)|
-| ♨️ Java |![Progress](https://progress-bar.dev/50/)|
 | 🐘 PHP |![Progress](https://progress-bar.dev/25/)|
 
