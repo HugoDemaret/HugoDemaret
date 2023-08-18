@@ -5,9 +5,9 @@ from HugoDemaret import information as info
 Name = "Hugo"
 StudyingAt = "Master Foundation of Computer Science, École Polytechnique"
 Diplomas = "Bachelor degree in Computer Science,Université Paris Cité, France"
-WorkingAs = ["System administrator", "Back-end developer"]
+WorkingAs = ["System administrator", "Back-end developer", "Research Intern"]
 Studying = ["Computer science", "Mathematics"]
-CodingIn = ["C","python","bash"]
+CodingIn = ["C/C++","python","bash","Java"]
 OtherInterests = ["Cooking","Tea","Traveling","Music"]
 print(info.secret())
 ```
