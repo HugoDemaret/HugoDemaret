@@ -3,10 +3,10 @@
 ```python
 from HugoDemaret import information as info
 Name = "Hugo"
-StudyingAt = "Master Foundation of Computer Science, École Polytechnique"
-Diplomas = "Bachelor degree in Computer Science,Université Paris Cité, France"
-WorkingAs = ["System administrator", "Back-end developer", "Research Intern"]
-Studying = ["Computer science", "Mathematics"]
+StudyingAt = "PhD Student at Université de Caen Normandie"
+Diplomas = ["Master Foundation of Computer Science, École Polytechnique", "Bachelor degree in Computer Science, Université Paris Cité"]
+WorkingAs = ["System administrator", "Back-end developer", "PhD Student"]
+Topics = ["Combinatorics", "Theoretical computer science"]
 CodingIn = ["C/C++","python","bash","Java"]
 OtherInterests = ["Cooking","Tea","Traveling","Music"]
 print(info.secret())
